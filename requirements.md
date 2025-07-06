@@ -1,8 +1,7 @@
 # Functional Requirements and Notes
 
 **Project:** Learning Personal Website  
-**Purpose:**  
-**Goal:** The goal is to build a simple personal website and practice HTML, CSS and JavaScript.
+**Purpose:** Build a simple personal website abd practice HTML, CSS, and JavaScript.
 
 ---
 
@@ -63,7 +62,7 @@
 - Contains at least 3 skills or technologies
 - Content is readable and styled consistently
 
-## FR-6: Contact Section
+## FR-5: Contact Section
 
 **Description:** The contact section shall include a contact form and links to GitHub, LinkedIn and Instagram.
 
@@ -72,7 +71,7 @@
 
 **Acceptance Criteria:**
 
-- Email opens in default email client (via `mailto:`)
+- The system must allow the user to submit feedback through a contact form
 - Social links open in new tab
 - Icons or text links are accessible
 
