@@ -18,7 +18,7 @@
 ## [FR-1] Website Structure
 
 **Inputs:** Page load  
-**Inputs:** Rendered structure in browser
+**Outputs:** Rendered structure in browser
 
 **Acceptance Criteria:**
 
@@ -37,7 +37,7 @@
 - Navigation is usable on all screen sizes
 - No horizontal scroll appears on mobile
 
-## FR-3: Navigation
+## [FR-3]: Navigation
 
 **Description:** The site shall include a fixed top navigation bar with anchor links to each major section.
 
@@ -49,7 +49,7 @@
 - Navigation is visible and functional on all devices
 - Clicking a link scrolls smoothly to the section
 
-## FR-4: About Section
+## [FR-4]: About Section
 
 **Description:** The "About" section shall display a brief introduction, a photo, and a list of skills.
 
@@ -62,7 +62,7 @@
 - Contains at least 3 skills or technologies
 - Content is readable and styled consistently
 
-## FR-5: Contact Section
+## [FR-5]: Contact Section
 
 **Description:** The contact section shall include a contact form and links to GitHub, LinkedIn and Instagram.
 
@@ -75,4 +75,16 @@
 - Social links open in new tab
 - Icons or text links are accessible
 
-\_Last updated: 2025-07-06
+## [FR-6] Dark Mode Toogle
+
+**Inputs:** User clicks on toggle button  
+**Outputs:** Websites theme switches between light and dark modes
+
+**Acceptance Criteria:**
+
+- Toggle is accessible from all pages
+- Theme change applies immidiatele without page reload
+- User preference is stored (in localStoreage or cookies)
+- Theme is preserved across sessions and pages
+
+\_Last updated: 2025-07-13
