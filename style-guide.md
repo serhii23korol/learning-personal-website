@@ -11,23 +11,19 @@
 
 ## Colors
 
-### Primary
+### Themes
 
-- --color-primary: #CFDBD5
-- --color-primary-dark: #333533
-- --color-primary-light: #CFDBD5
+#### Light Mode
 
-### Secondary
+- Background: #FFFFFF
+- Text color: #333533
+- Primary color: #CFDBD5
 
-- --color-secondary: #E8EDDF
-- --color-secondary-dark:
-- --color-secondary-light:
+#### Dark Mode
 
-### Neutral
-
-- --color-white: #FFFFFF
-- --color-gray: #CFDBD5
-- --color-black: #333533
+- Background: #242423
+- Text color: #F5CB5C
+- Primary color: #333533
 
 ## Typography
 
@@ -40,20 +36,7 @@
 
 ## Buttons
 
-- Primary button:
-
-  - Background: --color-white
-  - Text color: --color-black
-  - Border-radius: 8px
-  - Padding: 12px 24px
-
-- Secondary button:
-
-  - Background: --color-secondary
-  - Text color: --color-white
-  - Border: none
-
-## Shadows
-
-- Default: 0px 4px 8px rgba(0, 0, 0, 0.1)
-- Hover: 0px 6px 12px rgba(0, 0, 0, 0.15)
+- Background: --color-white
+- Text color: --color-black
+- Border-radius: 8px
+- Padding: 12px 24px
